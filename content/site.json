@@ -1,0 +1,9 @@
+{
+    "$schema": "https://raw.githubusercontent.com/jaredkrinke/md2blog/main/schema/site.schema.json",
+    "title": "Abhilasha Figueroa",
+    "description": "A clever description goes here",
+    "url": "https://blag.mocalabs.com",
+    "footer": {
+        "text": "Optional copyright notice goes here"
+    }
+}
