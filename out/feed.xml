@@ -7,8 +7,21 @@
 <author>
 <name>Abhilasha Figueroa</name>
 </author>
-<updated>2025-10-21T09:03:43.302Z</updated>
+<updated>2025-10-21T11:43:31.636Z</updated>
 
+<entry>
+<title>First post</title>
+<id>https://blag.mocalabs.com/posts/2025/first-post.html</id>
+<link rel="alternate" href="https://blag.mocalabs.com/posts/2025/first-post.html"/>
+<updated>2025-10-21T00:00:00.000Z</updated>
+<summary type="text">First post on the new blog</summary>
+<content type="html">&lt;p&gt;&lt;em&gt;Write your Markdown here ...&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id=&quot;relative-links&quot;&gt;Relative links&lt;/h1&gt;
+&lt;p&gt;Relative link to another post in this category &lt;a href=&quot;https://blag.mocalabs.com/posts/2025/../misc/fist-post2.html&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;images-filepath-needs-to-exist-this-is-only-for-syntax-reference&quot;&gt;Images (file/path needs to exist! This is only for syntax reference)&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;https://blag.mocalabs.com/posts/2025/../../assets/test.png&quot; alt=&quot;test&quot;/&gt;&lt;/p&gt;
+</content>
+</entry>
 <entry>
 <title>First post!</title>
 <id>https://blag.mocalabs.com/posts/misc/first-post2.html</id>
