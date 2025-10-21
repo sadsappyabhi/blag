@@ -3,6 +3,12 @@
     "title": "Abhilasha Figueroa",
     "description": "A clever description goes here",
     "url": "https://blag.mocalabs.com",
+    "colors": {
+	"title": "#cf4281",
+	"heading": "#d48695",
+	"link": "#d4a8ba",
+	"comment": "#cfc9e0"
+    },
     "footer": {
         "text": "Optional copyright notice goes here"
     }
